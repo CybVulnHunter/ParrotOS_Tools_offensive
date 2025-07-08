@@ -24,25 +24,6 @@ This Bash script automates the essential setup of penetration testing tools on a
 > 📷 **Screenshot Here**  
 > *![image](https://github.com/user-attachments/assets/31615e19-0e5b-41ad-ace6-278baa21cba3)*
 
-```
-#############################################
-#                                           #
-#     Author: Syed Muneeb Ur Rehman        #
-#                                           #
-#############################################
-
- [i] Install Menu – Choose steps in order:
-
-   [1]  Update and upgrade
-   [2]  Add Parrot tools to apt
-   [3]  Change PPA permissions manually
-   [4]  Update and upgrade again
-   [5]  Install tools
-   [6]  Clean system
-   [7]  Set folders permissions
-
-   [q]  Exit
-```
 
 ---
 
@@ -102,13 +83,8 @@ sudo ./setup.sh
 ## 👨‍💻 Author
 
 **Syed Muneeb Ur Rehman**  
-Cybersecurity Engineer | Instructor | Tool Developer  
-🌐 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+Cybersecurity | Instructor | Tool Developer   
+🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/syed-muneeb-shah-4b5424266)
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Use responsibly — for **educational and ethical purposes only**.
