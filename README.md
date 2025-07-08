@@ -33,8 +33,9 @@ This Bash script automates the essential setup of penetration testing tools on a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/parrot-auto-setup.git
-cd parrot-auto-setup
+git clone  https://github.com/CybVulnHunter/ParrotOS_Tools_offensive.git
+cd ParrotOS_Tools_offensive
+
 ```
 
 ### 2. Make the Script Executable
