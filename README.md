@@ -39,12 +39,12 @@ cd parrot-auto-setup
 
 ### 2. Make the Script Executable
 ```bash
-chmod +x setup.sh
+chmod +x Cyber_Security_offensive.sh
 ```
 
 ### 3. Run the Script
 ```bash
-sudo ./setup.sh
+sudo ./Cyber_Security_offensive.sh
 ```
 
 ---
